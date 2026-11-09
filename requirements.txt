@@ -1,0 +1,14 @@
+crewai
+crewai-tools
+langgraph
+langchain-core
+llama-index
+qdrant-client
+requests
+ragas
+langchain-huggingface
+sentence-transformers
+litellm
+pydantic
+streamlit
+python-dotenv
